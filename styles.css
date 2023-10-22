@@ -54,7 +54,7 @@ h2 {
 }
 h4 {
   font-weight: 400;
-  margin: 10px 50px 60px 50px;
+  margin: 10px 10px 60px 10px;
 }
 
 .container {
@@ -97,15 +97,12 @@ h4 {
 .right-column {
   display: flex;
   align-items: center;
-  height: 50vh;
 }
 
-/*.attribution {
+.attribution {
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
-*/
